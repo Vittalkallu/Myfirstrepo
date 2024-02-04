@@ -1,1 +1,3 @@
-# this is my first Commit
+# this is my first Commit -- additional text as part of the merge
+
+# this chnage is made as part of the merge test.
